@@ -1,2 +1,2 @@
 # samRepo
-Hiii!! I am creating my first repository
+Hiii!! I am creating my first repository.
